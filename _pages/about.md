@@ -24,8 +24,7 @@ I am currently a visiting student at ShanghaiTech University, conducting researc
 My research interests include computer vision, embodied intelligence, and multimodal large models. My earlier work focused on low-level vision tasks (e.g., low-light image enhancement), while my current research explores 3D reconstruction and embodied intelligence.
 
 # 💻 Internship
-- *2025.03 - Present*, Research Assistant, Automation and Robotics Centerm, ShanghaiTech University.
-- *2025.03 - 2025.06*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
+- *2025.03 - Present*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
 - *2021.09 - 2025.03*, Laboratory Member, Engineering Laboratory of Network and Information Security Chongqing.
 
 
