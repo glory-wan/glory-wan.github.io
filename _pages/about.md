@@ -38,7 +38,7 @@ My research interests include computer vision, embodied intelligence, and multim
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2016</div>
+      <!-- <div class="badge">CVPR 2016</div> -->
         <img src='images/mtk.webp' alt="sym" width="100%">
     </div>
   </div>
@@ -48,17 +48,54 @@ My research interests include computer vision, embodied intelligence, and multim
 
   Jun Liu, Zhihao Wang, **Guangrong Wan**, Jianbo Liu 
 
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
-  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  [**Paper**](https://link.springer.com/article/10.1007/s44196-024-00624-3)
+  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CVPR 2016</div> -->
+        <img src='images/mtk.webp' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  A Review of Dry Eye Detection Algorithms Based on Computer Vision
+
+  Jun Liu, Zhi Zhang, **Guangrong Wan**, Mingwei Lin
+
+  [**Paper**](https://kns.cnki.net/kcms2/article/abstract?v=-f9lWFCLl9Borcrte8UiKJjWGMr-2AARVYXfLd9WG-8o6gADUTyUp8xBVy2cWGCdgqhrqKr1YH-6sEbN8Tz7uRGy9hA2LbLCeHWuJiLhn2AsNUqv4wpvcdXncQRM2K8YN9l0wYHFBJN2dseALLcSNCDfT4VuDBWLYWNuP1k8Z4A=&uniplatform=NZKPT)
+  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
   </div>
 </div>
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Project
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <!-- <div class="badge">CVPR 2016</div> -->
+        <img src='images/project/LLIELib.webp' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **LLIE Library**
+
+  A Python library that integrates multiple traditional low-light enhancement methods, written in Pytorch, is a flexible and expandable Python library that integrates traditional low-light enhancement methods.
+  - Currently supported algorithms include: HE series (HE/CLAHE/RCLAHE), gamma correction, log transformation, DarkChannel...
+  - The currently supported color Spaces include: RGB, HSV, HLS, LAB, and YUV
+
+  [**Code**](https://github.com/glory-wan/LLIE-Lib)
+  <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  </div>
+</div>
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
