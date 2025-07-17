@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a visiting student at ShanghaiTech University, conducting research in the [AMNR group](https://www.amnrlab.org/) under the joint supervision of [Prof. Song Liu](https://sist.shanghaitech.edu.cn/liusong/main.htm), who is expert in the field of ultrasonic robotics, micro/nano robotics in the ShanghaiTech Automation and Robotics Center, and [Prof. Hu Su](https://people.ucas.edu.cn/~suhu), who is expert in the field of machine vision, robotic control and non-contact manipulation Institute of Automation, Chinese Academy of Sciences). I received my B.E. degree from Chongqing University of Posts and Telecommunications, advised by [Prof. Jun Liu](https://faculty.cqupt.edu.cn/junliu/zh_CN/index.htm), who is expert in the field of computer vision, blockchain, and big data security.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+## Research interests
+
+My research interests include computer vision, embodied intelligence, and multimodal large models. My earlier work focused on low-level vision tasks (e.g., low-light image enhancement), while my current research explores 3D reconstruction and embodied intelligence.
+
+
 
 
 # 🔥 News
