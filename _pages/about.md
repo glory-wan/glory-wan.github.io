@@ -24,11 +24,14 @@ I am currently a visiting student at ShanghaiTech University, conducting researc
 My research interests include computer vision, embodied intelligence, and multimodal large models. My earlier work focused on low-level vision tasks (e.g., low-light image enhancement), while my current research explores 3D reconstruction and embodied intelligence.
 
 # 💻 Research Internship
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - Present*, Research Assistant, Automation and Robotics Centerm, ShanghaiTech University.
+- *2025.03 - 2025.06*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
+- *2021.09 - 2025.03*, Laboratory Member, Engineering Laboratory of Network and Information Security Chongqing.
 
-# 🔥 News
+
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 
@@ -51,8 +54,7 @@ My research interests include computer vision, embodied intelligence, and multim
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
