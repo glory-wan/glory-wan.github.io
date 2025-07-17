@@ -158,7 +158,7 @@ My research interests include computer vision, embodied intelligence, and multim
 </div>
 
 # 📖 Educations
-- *2021.09 - 2025.06*, undergradu
+- *2021.09 - 2025.06*, Undergraduate, Chongqing University of Posts and Telecommunications
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
