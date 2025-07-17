@@ -73,7 +73,7 @@ My research interests include computer vision, embodied intelligence, and multim
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-        <img src='images/paper/tf_review.webp' alt="sym" width="100%">
+        <img src='images/paper/tf_review.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -127,7 +127,7 @@ My research interests include computer vision, embodied intelligence, and multim
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-        <img src='images/project/project2.webp' alt="sym" width="100%">
+        <img src='images/project/tobacco.webp' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -158,7 +158,7 @@ My research interests include computer vision, embodied intelligence, and multim
 </div>
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2025.06*, undergradu
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
