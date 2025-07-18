@@ -155,7 +155,7 @@ My research interests include computer vision, embodied intelligence, and multim
 # 📖 Educations
 - *2021.09 - 2025.06*, Undergraduate, Chongqing University of Posts and Telecommunications
 
-# 💻 Internship
+# 💻 Internships
 - *2025.03 - Present*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
 - *2021.09 - 2025.03*, Laboratory Member, Engineering Laboratory of Network and Information Security Chongqing.
 
