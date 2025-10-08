@@ -34,14 +34,16 @@ My research interests include computer vision, embodied intelligence, and multim
   <div class='paper-box-image'>
     <div>
       <!-- <div class="badge">CVPR 2016</div> -->
-        <img src='images/paper/LMV.jpg' alt="sym" width="100%">
+        <img src='images/paper/TFNet_TFCollab.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  Real-time Tear Film Break-up Measurement Based on Multi-task Collaborative System for Dry Eye Instrument (under revirew)
+  TFM Dataset: A Novel Multi-task Dataset and Integrated Pipeline for Automated Tear Film Break-Up Segmentation (under revirew)
 
-  **Guangrong Wan**, Jun Liu, Tang Tang, Lianghao Shi
+  **Guangrong Wan**, Jun liu, Qiyang Zhou, Tang tang, Lianghao Shi, Wenjun Luo, TingTing Xu
+
+  [**arXiv**](https://arxiv.org/abs/2510.05615)
 
   </div>
 </div>
