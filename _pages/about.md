@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting student at ShanghaiTech University, conducting research in the [AMNR group](https://www.amnrlab.org/) under the joint supervision of [Prof. Song Liu](https://sist.shanghaitech.edu.cn/liusong/main.htm), who is expert in the field of ultrasonic robotics, micro/nano robotics in the ShanghaiTech Automation and Robotics Center, and [Prof. Hu Su](https://people.ucas.edu.cn/~suhu), who is expert in the field of machine vision, robotic control and non-contact manipulation Institute of Automation, Chinese Academy of Sciences). I received my B.E. degree from Chongqing University of Posts and Telecommunications, advised by [Prof. Jun Liu](https://faculty.cqupt.edu.cn/junliu/zh_CN/index.htm), who is expert in the field of computer vision, blockchain, and big data security.
+I am currently a Research Assistant at ShanghaiTech University, conducting research in the [AMNR group](https://amnrlab.cn/) under the joint supervision of [Prof. Song Liu](https://sist.shanghaitech.edu.cn/liusong/main.htm), who is expert in the field of ultrasonic robotics, micro/nano robotics in the ShanghaiTech Automation and Robotics Center, and [Prof. Hu Su](https://people.ucas.edu.cn/~suhu), who is expert in the field of machine vision, robotic control and non-contact manipulation Institute of Automation, Chinese Academy of Sciences). I received my B.E. degree from Chongqing University of Posts and Telecommunications, advised by [Prof. Jun Liu](https://faculty.cqupt.edu.cn/junliu/zh_CN/index.htm), who is expert in the field of computer vision, blockchain, and big data security.
 
 ## Research interests
 
-My research interests include computer vision, embodied intelligence, and multimodal large models. My earlier work focused on low-level vision tasks (e.g., low-light image enhancement), while my current research explores 3D reconstruction and embodied intelligence.
+My research interests include computer vision, artificial intelligence, brain-inspired intelligence, brain science. My earlier work focused on medical image processing and low-level vision tasks (e.g., low-light image enhancement).
 
 
 <!-- # 🔥 News
@@ -43,7 +43,7 @@ My research interests include computer vision, embodied intelligence, and multim
 
   **Guangrong Wan**, Jun liu, Qiyang Zhou, Tang tang, Lianghao Shi, Wenjun Luo, TingTing Xu
 
-  [**arXiv**](https://arxiv.org/abs/2510.05615)
+  [**arXiv**](https://arxiv.org/abs/2510.05615) [**Code**](https://github.com/glory-wan/TF-Net)
 
   </div>
 </div>
@@ -158,8 +158,9 @@ My research interests include computer vision, embodied intelligence, and multim
 - *2021.09 - 2025.06*, Undergraduate, Chongqing University of Posts and Telecommunications
 
 # 💻 Internships
-- *2025.03 - Present*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
 - *2021.09 - 2025.03*, Laboratory Member, Engineering Laboratory of Network and Information Security Chongqing.
+- *2025.03 - Present*, Visiting Student, Automation and Robotics Centerm, ShanghaiTech University.
+
 
 
 
