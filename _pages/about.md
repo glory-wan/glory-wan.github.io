@@ -115,7 +115,7 @@ My research interests include computer vision, artificial intelligence, brain-in
 
   **LLIE Web** [**Code**](https://github.com/glory-wan/LLIE-web)
 
-  Low-illumination image enhancement algorithm platform developed based on LLIE Lib.
+  Low-light image enhancement algorithm platform developed based on LLIE Lib.
   A visual user interface for low-light image enhancement algorithms is provided by using the java backend and VUE, and it is deployed and launched on Alibaba Cloud servers.
   </div>
 </div>
